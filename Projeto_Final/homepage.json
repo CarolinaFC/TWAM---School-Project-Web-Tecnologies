@@ -1,0 +1,38 @@
+[
+  {
+    "id" : "1",
+    "Equipamento" :"Smartphone",
+    "Preco" : "129,99€",
+    "img1" : "src/1537179744_b9a2a3b9b6675a32be78cea411ad571c.jpg"
+  },
+  {
+    "id" :"2",
+    "Equipamento" :"Smartphone",
+    "Preco" : "129,99€",
+    "img1" : "src/1535719765_7f037757f32101b8feb6b63fc5153e94.jpg"
+  },
+  {
+    "id" :"3",
+    "Equipamento" :"Smartphone",
+    "Preco" : "129,99€",
+    "img1" : "src/1534839893_7598d4d2bca0ea677e2fd553df2abb71.jpg"
+  },
+  {
+    "id" :"4",
+    "Equipamento" :"Smartphone",
+    "Preco" : "129,99€",
+    "img1" : "src/1490699614_73ae8bc8c9d6f7445400e09d4d5c7ab1.jpg"
+  },
+  {
+    "id" :"5",
+    "Equipamento" :"Smartphone",
+    "Preco" : "129,99€",
+    "img1" : "src/1552314586_db2db73a6837778561f6bc8165145ee5.jpg"
+  },
+  {
+    "id" :"6",
+    "Equipamento" :"Smartphone",
+    "Preco" : "129,99€",
+    "img1" : "src/1490699614_73ae8bc8c9d6f7445400e09d4d5c7ab1.jpg"
+  }
+]

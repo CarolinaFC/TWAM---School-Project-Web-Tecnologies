@@ -1,0 +1,777 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+#Carousel {
+    margin-top: 60px;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+#inpSearch, #btSearch {
+    position: relative;
+    display: inline-block;
+    direction: ltr;
+}
+
+/*--------------------------------------------Login/Registo------------------------------------------------------------*/
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 750px;
+}
+.login-form-1{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-2{
+    padding: 5%;
+    background: #0062cc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #fff;
+}
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form-1 .ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/*-----------------------pagina homepage--------------------------------------*/
+#icon, #login {
+    display: inline;
+}
+
+#detalhes1 {
+    text-align: center;
+    align-items: center;
+}
+#detalhes2 {
+    text-align: center;
+    align-items: center;
+}
+#detalhes3 {
+    text-align: center;
+    align-items: center;
+}
+#detalhes4 {
+    text-align: center;
+    align-items: center;
+}
+#detalhes5 {
+    text-align: center;
+    align-items: center;
+}
+#detalhes6 {
+    text-align: center;
+    align-items: center;
+}
+#prodVisi1 {
+    text-align: center;
+    align-items: center;
+}
+#prodVisi2 {
+    text-align: center;
+    align-items: center;
+}
+#prodVisi3 {
+    text-align: center;
+    align-items: center;
+}
+#prodVisi4 {
+    text-align: center;
+    align-items: center;
+}
+#prodVisi5 {
+    text-align: center;
+    align-items: center;
+}
+#prodVisi6 {
+    text-align: center;
+    align-items: center;
+}
+
+
+/*-----------------------pagina revenda/retoma--------------------------------------*/
+
+#cont {
+    margin-top: 15px;
+    width: 95%;
+    margin-bottom: 25px;
+}
+
+#RevendaRetoma{
+    padding-top: 30px;
+    margin-left: 75px;
+    margin-right: 75px;
+    width: 600px;
+}
+
+#card {
+    background-color: white;
+    width: 100%;
+    margin-top: -10px;
+}
+
+#addcaixa {
+    margin-top:  40px;
+    margin-left: -20px;
+    font-size: 15px;
+    margin-bottom: 25px;
+    background-color: lightgray;
+    width: 63%;
+}
+
+#selectEquipamento {
+    background-color: lightgray;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-top: -5px;
+}
+#selectMarca {
+    background-color: lightgray;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-top: 7px;
+}
+
+#Modelo {
+    font-size: 14px;
+    color: dimgrey;
+    margin-top: 7px;
+    border-color: black;
+    text-align-last: center;
+    background-color: lightgray;
+}
+#SO {
+    font-size:14px;
+    color: dimgrey;
+    margin-top: 7px;
+    border-color: black;
+    text-align-last: center;
+    background-color: lightgray;
+}
+
+#HELP {
+    color: gray;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+#HELP1 {
+    color: gray;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#HELP2 {
+    color: gray;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#HELP3 {
+    color: gray;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#HELP6 {
+    color: gray;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#btSub {
+    margin-top: 50px;
+    border-color: black;
+}
+
+#primcolun {
+    margin-top: -5px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+}
+
+#segcolun {
+    margin-top: -3px;
+    margin-right: 15px;
+}
+
+#radio {
+    /*margin-left: 300px;*/
+    margin-top: 49px;
+    background-color: transparent;
+    border-color: black;
+}
+#radio1 {
+   /*margin-left: 235px;*/
+    margin-top: -12px;
+    background-color: transparent;
+    border-color: black;
+}
+#radio2 {
+    /*margin-left: 336px;*/
+    margin-top: -14px;
+    background-color: transparent;
+    border-color: black;
+}
+#radio3 {
+    /*margin-left: 281px;*/
+    margin-top: -12px;
+    background-color: transparent;
+    border-color: black;
+}
+
+#Quantia {
+    font-size:14px;
+    color: dimgrey;
+    margin-top: 4px;
+    border-color: black;
+    text-align-last: center;
+    background-color: lightgray;
+}
+
+/*----- desaparecimento em mobile-------------*/
+#mobile {
+    display: none;
+}
+
+/*-----------------------pagina Validação da revenda/retoma Mobile--------------------------------------*/
+
+/* Small screens */
+@media only screen and (max-width: 500px) {
+    #mobile{
+        display: block;
+    }
+
+    #addcaixa1, #vert_menu, #VF{
+       display: none;
+    }
+
+   h4 {
+        display: inline;
+    }
+
+    #card_visual_mobile {
+        width: 355px;
+    }
+
+    #vert_menu_mobile {
+        margin-top: -48px;
+        margin-left: 57px;
+        border-color: darkgrey;
+        width: 357px;
+    }
+
+    #username_mobile {
+        text-align-last: center;
+        margin-top: 25px;
+        margin-left: 57px;
+        color: darkgrey;
+        border-color: gray;
+        font-size: 14px;
+        width: 210px;
+    }
+
+    #seta_mobile {
+        margin-left: 5px;
+        margin-top: 20px;
+
+    }
+
+    #credRevRet_mobile {
+        margin-top: 40px;
+        font-size: 16px;
+    }
+
+    #quantia_mobile {
+        text-align-last: center;
+        margin-top: 10px;
+        margin-left: 40px;
+        color: darkgrey;
+        border-color: gray;
+        font-size: 14px;
+        width: 260px;
+    }
+
+    #quantia1_mobile {
+        text-align-last: center;
+        width: 260px;
+        font-size: 14px;
+        margin-top: 10px;
+        margin-left: 40px;
+        color: darkgrey;
+        border-color: gray;
+    }
+
+    #gem_mobile {
+        margin-left: 9px;
+        margin-top: -34px;
+        font-size: 20px;
+    }
+
+    #btValidacao_mobile {
+        margin-top: 10px;
+        margin-left: 120px;
+        font-size: 14px;
+    }
+
+    #check_mobile {
+        margin-left: 10px;
+        margin-top: 9px;
+    }
+
+    #recuRevRet_mobile {
+        margin-top: 50px;
+    }
+
+    #descRecRevRet_mobile {
+        text-align-last: center;
+        margin-top: 10px;
+        margin-left: 36px;
+        color: darkgrey;
+        border-color: gray;
+        font-size: 14px;
+        width: 260px;
+    }
+
+    #btNaoValidacao_mobile {
+        margin-top: 10px;
+        margin-left: 110px;
+        margin-bottom: 50px;
+        font-size: 14px;
+    }
+
+    #nocheck_mobile {
+        margin-left: 10px;
+        margin-bottom: 39px;
+    }
+
+    #vis_R_R_mobile {
+        margin-top: 20px;
+        margin-left: 150px;
+        text-align: center;
+    }
+
+    #addcaixa1_mobile {
+        margin-left: 0px;
+        margin-top: 10px;
+        font-size: 15px;
+        background-color: lightgray;
+    }
+
+    /*Validaçao Revenda e retoma*/
+    .gallery1_mobile {
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        position: relative;
+        background: white;
+        width: 90%;
+        box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+        border-radius: 5px;
+    }
+    /*--------------------------------*/
+    #primcolun1_mobile {
+        margin-top: 15px;
+        margin-left: 35px;
+        margin-bottom: 15px;
+    }
+
+    #segcolun1_mobile {
+        margin-left: 25px;
+    }
+
+    #selectEquipamento1_mobile {
+        background-color: transparent;
+        border-color: black;
+        text-align-last: center;
+        font-size: 14px;
+        color: dimgray;
+
+    }
+
+    #selectMarca1_mobile {
+        background-color: transparent;
+        border-color: black;
+        text-align-last: center;
+        font-size: 14px;
+        margin-top: -10px;
+        color: dimgray;
+    }
+
+    #Modelo1_mobile {
+        background-color: transparent;
+        border-color: black;
+        text-align-last: center;
+        font-size: 14px;
+        margin-top: 5px;
+        color: dimgray;
+    }
+
+    #SO1_mobile {
+        background-color: transparent;
+        border-color: black;
+        text-align-last: center;
+        font-size: 14px;
+        margin-top: 3px;
+        color: dimgray;
+    }
+
+    #RevRet1_mobile {
+        background-color: transparent;
+        border-color: black;
+        text-align-last: center;
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 100px;
+        color: dimgray;
+        width: 150px;
+    }
+
+    #RevRet2_mobile {
+        background-color: transparent;
+        border-color: black;
+        text-align-last: center;
+        font-size: 14px;
+        margin-bottom: 50px;
+        color: dimgray;
+        width: 150px;
+    }
+
+    #radio4_mobile {
+        /* margin-left: 350px;*/
+        margin-top: 29px;
+        background-color: transparent;
+        border-color: black;
+    }
+
+
+   #radio5_mobile {
+        /*margin-left: 285px;*/
+        margin-top: -10px;
+        background-color: transparent;
+        border-color: black;
+    }
+
+    #radio6_mobile {
+        /*margin-left: 386px;*/
+        margin-top: -12px;
+        background-color: transparent;
+        border-color: black;
+   }
+
+    #radio7_mobile {
+        /* margin-left: 331px;*/
+       margin-top: -12px;
+        background-color: transparent;
+        border-color: black;
+    }
+
+}
+
+
+
+/*-----------------------pagina validação revenda/retoma--------------------------------------*/
+h4 {
+    display: inline;
+}
+
+#card_visual {
+    width: 355px;
+}
+
+#vert_menu {
+    margin-top: -48px;
+    margin-left: 30px;
+    border-color: darkgrey;
+    width: 357px;
+}
+
+#username {
+    text-align-last: center;
+    margin-top: 25px;
+    margin-left: 57px;
+    color: darkgrey;
+    border-color: gray;
+    font-size: 14px;
+    width: 210px;
+}
+
+#seta {
+    margin-left: 5px;
+    margin-top: 20px;
+    height: 20px;
+
+}
+
+#credRevRet {
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+#quantia {
+    text-align-last: center;
+    margin-top: 10px;
+    margin-left: 40px;
+    color: darkgrey;
+    border-color: gray;
+    font-size: 14px;
+    width: 260px;
+}
+
+#quantia1 {
+    text-align-last: center;
+    width: 260px;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 40px;
+    color: darkgrey;
+    border-color: gray;
+}
+
+#gem {
+    margin-left: 9px;
+    margin-top: -34px;
+    font-size: 20px;
+}
+
+#btValidacao {
+    margin-top: 10px;
+    margin-left: 120px;
+    font-size: 14px;
+}
+
+#check {
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+#recuRevRet {
+    margin-top: 50px;
+}
+
+#descRecRevRet {
+    text-align-last: center;
+    margin-top: 10px;
+    margin-left: 36px;
+    color: darkgrey;
+    border-color: gray;
+    font-size: 14px;
+    width: 260px;
+}
+
+#btNaoValidacao {
+    margin-top: 10px;
+    margin-left: 110px;
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+
+#nocheck {
+    margin-left: 10px;
+    margin-bottom: 39px;
+}
+
+#vis_R_R {
+    margin-top: 20px;
+    margin-left: 150px;
+    text-align: center;
+}
+
+#addcaixa1 {
+    margin-left: 90px;
+    margin-top:  -591px;
+    font-size: 15px;
+    background-color: lightgray;
+}
+
+#primcolun1 {
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+}
+
+#segcolun1 {
+    margin-left: 25px;
+}
+
+#selectEquipamento1 {
+    background-color: transparent;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    color: dimgray;
+
+}
+#selectMarca1 {
+    background-color: transparent;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-top: -10px;
+    color: dimgray;
+}
+
+#Modelo1 {
+    background-color: transparent;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-top: 5px;
+    color: dimgray;
+}
+#SO1 {
+    background-color: transparent;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-top: 3px;
+    color: dimgray;
+}
+
+#RevRet1 {
+    background-color: transparent;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    color: dimgray;
+    width: 150px;
+}
+#RevRet2 {
+    background-color: transparent;
+    border-color: black;
+    text-align-last: center;
+    font-size: 14px;
+    margin-bottom: 50px;
+    color: dimgray;
+    width: 150px;
+}
+
+#radio4 {
+   /* margin-left: 350px;*/
+    margin-top: 29px;
+    background-color: transparent;
+    border-color: black;
+
+}
+#radio5 {
+    /*margin-left: 285px;*/
+    margin-top: -10px;
+    background-color: transparent;
+    border-color: black;
+}
+#radio6 {
+    /*margin-left: 386px;*/
+    margin-top: -12px;
+    background-color: transparent;
+    border-color: black;
+}
+#radio7 {
+   /* margin-left: 331px;*/
+    margin-top: -12px;
+    background-color: transparent;
+    border-color: black;
+}
+
+
+/*Validaçao Revenda e retoma*/
+.gallery1 {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    position: relative;
+    background: white;
+    width: 60%;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border-radius: 5px;
+}
+
+/*Revenda e retoma*/
+.gallery {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    position: relative;
+    background: white;
+    width: 60%;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border-radius: 5px;
+}
+
+@-webkit-keyframes full {
+    from {
+        -webkit-transform: translate(-50%, -50%) scale(0.8);
+        transform: translate(-50%, -50%) scale(0.8);
+    }
+    to {
+        -webkit-transform: translate(-50%, -50%) scale(1);
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+
+@keyframes full {
+    from {
+        -webkit-transform: translate(-50%, -50%) scale(0.8);
+        transform: translate(-50%, -50%) scale(0.8);
+    }
+    to {
+        -webkit-transform: translate(-50%, -50%) scale(1);
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+@-webkit-keyframes shadow {
+    from {
+        box-shadow: 0 0 0 100vmin rgba(24, 33, 45, 0), 0 0 10vmin rgba(13, 21, 31, 0);
+    }
+    to {
+        box-shadow: 0 0 0 100vmin rgba(24, 33, 45, 0.6), 0 0 10vmin rgba(13, 21, 31, 0.6);
+    }
+}
+@keyframes shadow {
+    from {
+        box-shadow: 0 0 0 100vmin rgba(24, 33, 45, 0), 0 0 10vmin rgba(13, 21, 31, 0);
+    }
+    to {
+        box-shadow: 0 0 0 100vmin rgba(24, 33, 45, 0.6), 0 0 10vmin rgba(13, 21, 31, 0.6);
+    }
+}
+

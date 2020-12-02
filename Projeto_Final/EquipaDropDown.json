@@ -1,0 +1,14 @@
+[
+  {
+    "id" :"1",
+    "Eq" :"Equipamento"
+  },
+  {
+    "id" :"2",
+    "Eq" :"Smartphone"
+  },
+  {
+    "id" :"3",
+    "Eq" :"Computador"
+  }
+]

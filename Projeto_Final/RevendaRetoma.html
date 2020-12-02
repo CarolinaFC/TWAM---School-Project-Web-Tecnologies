@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Plataforma de Lojas Online - RevendaRetoma</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Plataforma de Lojas Online">
+    <meta name="keywords" content="HomePage,produtos,novidades, revenda/retoma, lojas">
+    <meta name="author" content="twam">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <script src=lib.js></script>
+    <link rel=stylesheet href="estilos.css" type="text/css">
+    </head>
+    <body>
+        <header>
+            <script>
+                loadmenuCliente();
+            </script>
+        </header>
+        <br><br> <!--------------------------------------------------------------------------------------------------------------->
+
+                <section id="addcaixa" class="gallery">
+                    <div class="row">
+                        <div id="RevendaRetoma" class="col-sm">
+                             <div id="btg" class="btn-group mb-2 btn-block" role="group">
+                                <input id="btRev" type="button" class="btn btn-secondary" value="Revenda">
+                                <input id="btRet" type="button" class="btn btn-secondary" value="Retoma">
+                             </div>
+                                <br><label id="info">Escolha no botão acima o que pretende fazer, Revenda ou Retoma do seu equipamento.</label>
+                         </div>
+                    </div>
+
+                    <div id="cont" class="container">
+                        <div id="card" class="card">
+                            <div class="card-body">
+                                <a class="form-inline">
+
+                                    <div class="row">
+                                        <div class="col-md-8" id="primcolun">
+                                            <div id="loadinfo"><script>loadInfo()</script></div>
+                                            <hr>
+                                            <div id="loadInfo2"><script>loadInfo2()</script></div>
+                                            <hr>
+                                            <div id="loadInfo3"><script>loadInfo3()</script></div>
+                                        </div>
+
+                                        <div class="col-sm-3 col-md-3" id="segcolun">
+                                                <div class="input-group form-inline">
+                                                    <div class="form-group">
+                                                        <label for="selectEquipamento"></label>
+                                                        <select class="form-control" id="selectEquipamento" name="equip">
+                                                            <script>loadEquip();</script>
+                                                        </select>
+                                                        <a id="HELP" href="#" data-toggle="tooltip" data-placement="right" title="* Campo Obrigatório"><i class="fas fa-question"></i></a>
+                                                    </div>
+                                                </div>
+                                                <div class="input-group form-inline">
+                                                    <div class="form-group">
+                                                        <label for="selectMarca"></label>
+                                                        <select class="form-control" id="selectMarca" name="marca">
+                                                            <script>loadMarca();</script>
+                                                        </select>
+                                                        <a id="HELP1" href="#" data-toggle="tooltip" data-placement="right" title="* Campo Obrigatório"><i class="fas fa-question"></i></a>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group form-inline">
+                                                    <input class="form-control" autocomplete="off" id="Modelo" type="text" name="Modelo" size="16" maxlength="20" placeholder="Modelo">
+                                                    <a id="HELP2" href="#" data-toggle="tooltip" data-placement="right" title="* Campo Obrigatório"><i class="fas fa-question"></i></a>
+                                                    <input class="form-control" autocomplete="off" id="SO" type="text" name="SO" size="16" maxlength="20" placeholder="Sistema Operativo">
+                                                    <a id="HELP3" href="#" data-toggle="tooltip" data-placement="right" title="* Campo Obrigatório"><i class="fas fa-question"></i></a>
+                                                </div>
+
+                                                <hr>
+
+                                                <div class="form-group form-inline">
+                                                    <div id="radio" class="form-control form-inline">
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r1" type="radio" name="optradio1" value="Mau estado">1
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r2" type="radio" name="optradio1" value="Estado mediano">2
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r3" type="radio" name="optradio1" value="Bom estado">3
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group form-inline">
+                                                    <div id="radio1" class="form-control form-inline">
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r4" type="radio" name="optradio2" value="Mau estado">1
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r5" type="radio" name="optradio2" value="Estado mediano">2
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r6" type="radio" name="optradio2" value="Bom estado">3
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group form-inline">
+                                                    <div id="radio2" class="form-control form-inline">
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r7" type="radio" name="optradio3" value="Mau estado">1
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r8" type="radio" name="optradio3" value="Estado mediano">2
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r9" type="radio" name="optradio3" value="Bom estado">3
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group form-inline">
+                                                    <div id="radio3" class="form-control form-inline">
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r10" type="radio" name="optradio4" value="Mau estado">1
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r11" type="radio" name="optradio4" value="Estado mediano">2
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check-inline">
+                                                            <label class="form-check-label">
+                                                                <input id="r12" type="radio" name="optradio4" value="Bom estado">3
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <hr>
+
+                                                <input class="form-control form-inline" autocomplete="off" id="Quantia" type="text" name="Quantia" size="16" maxlength="20" placeholder="Quantia Desejada">
+
+                                                <hr>
+
+                                                <button id="btSub" type="button" class="btn btn-secondary btn-block" value="Submeter" onclick="guardaFormRevRet()">Submeter</button>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+
+        <!-- The Modal -->
+        <div class="modal fade" id="Success">
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Submetido!<i class="fas fa-check-circle align-middle" style="color:green"></i></h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        A Submissão do Seu Pedido Foi Feita com Sucesso!
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="Insuccess">
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Não Submetido!<i class="fas fa-times-circle align-middle" style="color:red"></i></h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        A Submissão do Seu Pedido <b>Não</b> Foi Feita com Sucesso!
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <hr>
+            <footer>
+                    <script>
+                        loadfooter();
+                    </script>
+            </footer>
+    </body>
+</html>

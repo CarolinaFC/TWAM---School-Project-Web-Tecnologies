@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+        <meta charset="UTF-8">
+        <title>Plataforma de Lojas Online - Validação da Revenda/Retoma</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="description" content="Plataforma de Lojas Online">
+        <meta name="keywords" content="HomePage,produtos,novidades, revenda/retoma, lojas">
+        <meta name="author" content="twam">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <script src=lib.js></script>
+        <link rel=stylesheet href="estilos.css" type="text/css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+</head>
+    <body>
+        <header>
+            <script>
+                loadmenuAdmin();
+            </script>
+        </header>
+        <br><br> <!--------------------------------------------------------------------------------------------------------------->
+
+            <div id="vis_R_R">
+                <h4 id="VF">Visualização do formulário de Revenda/Retoma</h4>
+            </div>
+
+            <br> <!--------------------------------------------------------------------------------------------------------------->
+            <br> <!--------------------------------------------------------------------------------------------------------------->
+            <br>
+
+                    <div class="card col-xs-12 col-md-3" id="vert_menu">
+                        <div class="row">
+                            <article class="card-group-item" id="card_visual">
+                                <header class="card-header">
+                                    <h6 class="title" align="middle">Visualização do Formulário</h6>
+                                </header>
+                                <a class="form-inline">
+                                    <input type="text" class="form-control" autocomplete="off" id="username" name="Username" maxlength="20" placeholder="Username">
+                                    <button class="fas fa-arrow-right" id="seta" onclick="ValFormRevRet()"></button>
+                                </a>
+                                <header id="credRevRet" class="card-header">
+                                    <h6 class="title" align="middle">Créditos Revenda/Retoma</h6>
+                                </header>
+                                <a class="form-inline">
+                                    <input type="text" class="form-control" autocomplete="off" id="quantia" name="Creditos" maxlength="20" placeholder="Indique a Quantia"><label class="form-control" id="quantia1">Quantia Requerida</label><i class="fas fa-gem align-middle" id="gem"></i>
+                                    <button id="btValidacao" type="submit" class="btn btn-secondary">Validação</button><i class="fas fa-check align-middle" id="check"></i>
+                                </a>
+                                <header id="recuRevRet" class="card-header">
+                                    <h6  class="title" align="middle">Recusa da Revenda/Retoma</h6>
+                                </header>
+                                    <input type="text" class="form-control" autocomplete="off" id="descRecRevRet" name="descRecRevRet" maxlength="20" placeholder="Indique uma breve descrição">
+                                    <button id="btNaoValidacao" type="submit" class="btn btn-secondary" >Não Validação</button><i class="fas fa-times align-middle" id="nocheck"></i>
+                            </article>
+                        </div>
+                    </div>
+
+                        <section id="addcaixa1" class="gallery1">
+                            <div class="row">
+                                <div class="col-xs-12 col-md-7" id="primcolun1">
+                                    <div id="loadinfo"><script>loadInfo()</script></div>
+                                    <hr>
+                                    <div id="loadInfo2"><script>loadInfo2()</script></div>
+                                    <hr>
+                                    <div id="loadInfo3"><script>loadInfo3()</script></div>
+                                </div>
+                                <div class="col-xs-12 col-sm-4" id="segcolun1">
+                                    <div id="inform">
+                                        <br><a id="selectEquipamento1">Equipamento</a><br>
+                                        <br><a id="selectMarca1">Marca</a><br>
+                                        <br><a id="Modelo1">Modelo</a><br>
+                                        <br><a id="SO1">Sistema Operativo</a>
+                                    </div>
+
+                                    <hr>
+
+                                    <div class="form-group form-inline">
+                                        <div id="radio4" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r1" type="radio" name="optradio1" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r2" type="radio" name="optradio1" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r3" type="radio" name="optradio1" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group form-inline">
+                                        <div id="radio5" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r4" type="radio" name="optradio2" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r5" type="radio" name="optradio2" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r6" type="radio" name="optradio2" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group form-inline">
+                                        <div id="radio6" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r7" type="radio" name="optradio3" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r8" type="radio" name="optradio3" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r9" type="radio" name="optradio3" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group form-inline">
+                                        <div id="radio7" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r10" type="radio" name="optradio4" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r11" type="radio" name="optradio4" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r12" type="radio" name="optradio4" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <label class="form-control " id="RevRet1">Revenda/Retoma</label>
+                                    <!--label class="form-control" id="RevRet2" for="RevRet2">Revenda/Retoma</label-->
+                                </div>
+                            </div>
+                        </section>
+
+                <!-------------------------------MOBILE------------------------------------>
+                    <div id="mobile">
+                        <div class="card col-sm"  id="vert_menu_mobile">
+                            <div class="row">
+                                <article class="card-group-item" id="card_visual_mobile">
+                                    <header class="card-header">
+                                        <h6 class="title" align="middle">Visualização do Formulário</h6>
+                                    </header>
+                                    <a class="form-inline">
+                                        <input type="text" class="form-control" autocomplete="off" id="username_mobile" name="Username" maxlength="20" placeholder="Username">
+                                        <button class="fas fa-arrow-right" id="seta_mobile" onclick="ValFormRevRet()"></button>
+                                    </a>
+                                    <header id="credRevRet_mobile" class="card-header">
+                                        <h6 class="title" align="middle">Créditos Revenda/Retoma</h6>
+                                    </header>
+                                    <a class="form-inline">
+                                        <input type="text" class="form-control" autocomplete="off" id="quantia_mobile" name="Creditos" maxlength="20" placeholder="Indique a Quantia"><label class="form-control" id="quantia1_mobile">Quantia Requerida</label><i class="fas fa-gem align-middle" id="gem_mobile"></i>
+                                        <button id="btValidacao_mobile" type="submit" class="btn btn-secondary">Validação</button><i class="fas fa-check align-middle" id="check_mobile"></i>
+                                    </a>
+                                    <header id="recuRevRet_mobile" class="card-header">
+                                        <h6  class="title" align="middle">Recusa da Revenda/Retoma</h6>
+                                    </header>
+                                    <input type="text" class="form-control" autocomplete="off" id="descRecRevRet_mobile" name="descRecRevRet" maxlength="20" placeholder="Indique uma breve descrição">
+                                    <button id="btNaoValidacao_mobile" type="submit" class="btn btn-secondary" >Não Validação</button><i class="fas fa-times align-middle" id="nocheck_mobile"></i>
+                                </article>
+                            </div>
+                        </div>
+
+                        <section id="addcaixa1_mobile" class="gallery1_mobile">
+                            <div class="row">
+                                <div class="col-sm" id="primcolun1_mobile">
+                                    <div id="loadinfo_mobile"><script>loadInfo()</script></div>
+                                    <hr>
+                                    <div id="loadInfo2_mobile"><script>loadInfo2()</script></div>
+                                    <hr>
+                                    <div id="loadInfo3_mobile"><script>loadInfo3()</script></div>
+                                </div>
+
+                                <div class="col-sm" id="segcolun1_mobile">
+                                    <div id="inform_mobile">
+                                        <br><a id="selectEquipamento1_mobile">Equipamento</a><br>
+                                        <br><a id="selectMarca1_mobile">Marca</a><br>
+                                        <br><a id="Modelo1_mobile">Modelo</a><br>
+                                        <br><a id="SO1_mobile">Sistema Operativo</a>
+                                    </div>
+
+                                    <hr>
+
+                                    <div class="form-group form-inline">
+                                        <div id="radio4_mobile" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r1_mobile" type="radio" name="optradio1" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r2_mobile" type="radio" name="optradio1" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r3_mobile" type="radio" name="optradio1" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group form-inline">
+                                        <div id="radio5_mobile" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r4_mobile" type="radio" name="optradio2" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r5_mobile" type="radio" name="optradio2" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r6_mobile" type="radio" name="optradio2" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group form-inline">
+                                        <div id="radio6_mobile" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r7_mobile" type="radio" name="optradio3" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r8_mobile" type="radio" name="optradio3" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r9_mobile" type="radio" name="optradio3" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group form-inline">
+                                        <div id="radio7_mobile" class="form-control">
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r10_mobile" type="radio" name="optradio4" value="Mau estado">1
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r11_mobile" type="radio" name="optradio4" value="Estado mediano">2
+                                                </label>
+                                            </div>
+                                            <div class="form-check-inline">
+                                                <label class="form-check-label">
+                                                    <input id="r12_mobile" type="radio" name="optradio4" value="Bom estado">3
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <label class="form-control " id="RevRet1_mobile" for="RevRet1">Revenda/Retoma</label>
+                                    <!--label class="form-control" id="RevRet2_mobile" for="RevRet2">Revenda/Retoma</label-->
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+
+                    <!-- The Modal -->
+                    <div class="modal fade" id="Success">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+
+                                <!-- Modal Header -->
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Avaliado!<i class="fas fa-check-circle align-middle" style="color:green"></i></h4>
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                </div>
+
+                                <!-- Modal body -->
+                                <div class="modal-body">
+                                    Avaliado com Sucesso!
+                                </div>
+
+                                <!-- Modal footer -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="modal fade" id="Insuccess">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+
+                                <!-- Modal Header -->
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Não Avaliado!<i class="fas fa-times-circle align-middle" style="color:red"></i></h4>
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                </div>
+
+                                <!-- Modal body -->
+                                <div class="modal-body">
+                                    <b>Não</b> foi possivel avaliar. <b>Tente Novamente!</b>
+                                </div>
+
+                                <!-- Modal footer -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+            <br><br> <!--------------------------------------------------------------------------------------------------------------->
+                <hr>
+                <footer>
+                    <script>
+                        loadfooter();
+                    </script>
+                </footer>
+    </body>
+</html>

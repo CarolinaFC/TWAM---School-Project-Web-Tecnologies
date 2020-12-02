@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02a6a3c4-85ec-44ce-82a2-0b257df774e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="60d19412-7087-4345-b85f-88501c716ddf" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomePage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RevendaRetoma.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="166" column="180" lean-forward="true" selection-start-line="162" selection-start-column="46" selection-end-line="166" selection-end-column="180" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ValRevRet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="788">
+              <caret line="189" column="30" lean-forward="true" selection-start-line="164" selection-start-column="19" selection-end-line="189" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="331" lean-forward="true" selection-start-line="269" selection-end-line="331" />
+              <folding>
+                <element signature="e#20#58#0" />
+                <element signature="e#70#95#0" />
+                <element signature="e#107#157#0" />
+                <element signature="e#182#256#0" />
+                <element signature="e#396#460#0" />
+                <element signature="e#474#576#0" />
+                <element signature="e#593#637#0" />
+                <element signature="e#651#778#0" />
+                <element signature="e#795#839#0" />
+                <element signature="e#861#882#0" />
+                <element signature="e#894#996#0" />
+                <element signature="e#1021#1094#0" />
+                <element signature="e#1119#1192#0" />
+                <element signature="e#1217#1286#0" />
+                <element signature="e#1311#1383#0" />
+                <element signature="e#2370#2436#0" />
+                <element signature="e#2452#2543#0" />
+                <element signature="e#2551#2623#0" />
+                <element signature="e#2635#2780#0" />
+                <element signature="e#2801#2934#0" />
+                <element signature="e#2948#3080#0" />
+                <element signature="e#3090#3242#0" />
+                <element signature="e#3247#3398#0" />
+                <element signature="e#3406#3472#0" />
+                <element signature="e#3480#3545#0" />
+                <element signature="e#3553#3618#0" />
+                <element signature="e#3626#3691#0" />
+                <element signature="e#3700#3765#0" />
+                <element signature="e#3774#3824#0" />
+                <element signature="e#3837#3910#0" />
+                <element signature="e#3922#3971#0" />
+                <element signature="e#3980#4093#0" />
+                <element signature="e#4102#4215#0" />
+                <element signature="e#4224#4338#0" />
+                <element signature="e#4347#4461#0" />
+                <element signature="e#4472#4623#0" />
+                <element signature="e#4682#4704#0" />
+                <element signature="e#4876#4907#0" />
+                <element signature="e#4940#4969#0" />
+                <element signature="e#4977#5009#0" />
+                <element signature="e#5035#5064#0" />
+                <element signature="e#5088#5203#0" />
+                <element signature="e#5226#5419#0" />
+                <element signature="e#5438#5498#0" />
+                <element signature="e#5523#5581#0" />
+                <element signature="e#5603#5796#0" />
+                <element signature="e#5819#6012#0" />
+                <element signature="e#6030#6115#0" />
+                <element signature="e#6141#6227#0" />
+                <element signature="e#6247#6306#0" />
+                <element signature="e#6331#6364#0" />
+                <element signature="e#6392#6585#0" />
+                <element signature="e#6614#6729#0" />
+                <element signature="e#6751#6814#0" />
+                <element signature="e#6836#6925#0" />
+                <element signature="e#6951#7072#0" />
+                <element signature="e#7130#7427#0" />
+                <element signature="e#7452#7541#0" />
+                <element signature="e#7565#7599#0" />
+                <element signature="e#7632#7790#0" />
+                <element signature="e#7817#8001#0" />
+                <element signature="e#8023#8205#0" />
+                <element signature="e#8223#8405#0" />
+                <element signature="e#8427#8662#0" />
+                <element signature="e#8684#8892#0" />
+                <element signature="e#8913#9047#0" />
+                <element signature="e#9068#9202#0" />
+                <element signature="e#9223#9356#0" />
+                <element signature="e#9377#9511#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="571" lean-forward="true" selection-start-line="571" selection-end-line="571" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#!!block;n#loadmenu#0" />
+                <element signature="n#!!block;n#LoginRegisto#0" />
+                <element signature="n#!!block;n#loadAutenticate#0" />
+                <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#!!block;n#validateData#0" />
+                <element signature="n#!!block;n#loadmenuCliente#0" />
+                <element signature="n#!!block;n#loadmenuAdmin#0" />
+                <element signature="n#!!block;n#loadfooter#0" />
+                <element signature="n#style#0;n#i#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#4;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#!!block;n#loadProdutos#0" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#!!block;n#loadEquip#0" />
+                <element signature="n#!!block;n#loadMarca#0" />
+                <element signature="n#!!block;n#loadInfo#0" />
+                <element signature="n#!!block;n#loadInfo2#0" />
+                <element signature="n#!!block;n#loadInfo3#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="XSLT Stylesheet" />
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectEquipamento1</find>
+      <find>info</find>
+      <find>infor</find>
+      <find>revret</find>
+      <find>revenda</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fonts.css" />
+        <option value="$PROJECT_DIR$/HomePgae.html" />
+        <option value="$PROJECT_DIR$/src/Revenda/Retoma.html" />
+        <option value="$PROJECT_DIR$/Revenda/Retoma.html" />
+        <option value="$PROJECT_DIR$/src/Novidades.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f3c12138-a705-425c-9415-80798c1f9217/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/60d19412-7087-4345-b85f-88501c716ddf/console.sql" />
+        <option value="$PROJECT_DIR$/dados.json.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/dados.sql" />
+        <option value="$PROJECT_DIR$/dados.sql" />
+        <option value="$PROJECT_DIR$/Novidades.html" />
+        <option value="$PROJECT_DIR$/sdfg.json" />
+        <option value="$PROJECT_DIR$/HomePageAdmin.html" />
+        <option value="$PROJECT_DIR$/Utilizadores.json" />
+        <option value="$PROJECT_DIR$/HomePageCliente.html" />
+        <option value="$PROJECT_DIR$/teste.html" />
+        <option value="$PROJECT_DIR$/ValidRevRet.json" />
+        <option value="$PROJECT_DIR$/Equip.json" />
+        <option value="$PROJECT_DIR$/JSON/Marca.json" />
+        <option value="$PROJECT_DIR$/JSON/lib.js" />
+        <option value="$PROJECT_DIR$/EquipaDropDown.json" />
+        <option value="$PROJECT_DIR$/JSON/Equipamentos.json" />
+        <option value="$PROJECT_DIR$/info3RevRet.json" />
+        <option value="$PROJECT_DIR$/inforRevRet.json" />
+        <option value="$PROJECT_DIR$/info2RevRet.json" />
+        <option value="$PROJECT_DIR$/homepage.json" />
+        <option value="$PROJECT_DIR$/HomePage.html" />
+        <option value="$PROJECT_DIR$/RevendaRetoma.html" />
+        <option value="$PROJECT_DIR$/lib.js" />
+        <option value="$PROJECT_DIR$/ValRevRet.html" />
+        <option value="$PROJECT_DIR$/estilos.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-247" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final" type="462c0819:PsiDirectoryNode" />
+              <item name="JSON" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\PhpstormProjects\Final" />
+      <recent name="C:\Users\josep\PhpstormProjects\Final" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PhpstormProjects\PhpstormProjects\Final" />
+      <recent name="C:\Users\josep\PhpstormProjects\Final\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a6a3c4-85ec-44ce-82a2-0b257df774e2" name="Default Changelist" comment="" />
+      <created>1557851902411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557851902411</updated>
+      <workItem from="1557851904199" duration="8672000" />
+      <workItem from="1558965959659" duration="155000" />
+      <workItem from="1558973234345" duration="260000" />
+      <workItem from="1559236220303" duration="3463000" />
+      <workItem from="1559240124638" duration="8484000" />
+      <workItem from="1559486911078" duration="7260000" />
+      <workItem from="1559494264095" duration="40000" />
+      <workItem from="1559494305516" duration="1534000" />
+      <workItem from="1559500363544" duration="1578000" />
+      <workItem from="1559502491133" duration="1074000" />
+      <workItem from="1559503588466" duration="4952000" />
+      <workItem from="1559576902587" duration="10783000" />
+      <workItem from="1559639196630" duration="10938000" />
+      <workItem from="1560073931020" duration="9599000" />
+      <workItem from="1560101093151" duration="17499000" />
+      <workItem from="1560180277592" duration="7589000" />
+      <workItem from="1560443160384" duration="602000" />
+      <workItem from="1560525895734" duration="398000" />
+      <workItem from="1560854896731" duration="1185000" />
+      <workItem from="1560857375957" duration="11585000" />
+      <workItem from="1560875960322" duration="17619000" />
+      <workItem from="1560942837123" duration="31174000" />
+      <workItem from="1561036800714" duration="1599000" />
+      <workItem from="1561039595073" duration="2609000" />
+      <workItem from="1561051765127" duration="2113000" />
+      <workItem from="1561055492268" duration="6290000" />
+      <workItem from="1561111510582" duration="856000" />
+      <workItem from="1561158384817" duration="257000" />
+      <workItem from="1562082228907" duration="2178000" />
+      <workItem from="1562159811793" duration="598000" />
+      <workItem from="1562161682898" duration="1244000" />
+      <workItem from="1562677060021" duration="4292000" />
+      <workItem from="1562688779246" duration="3833000" />
+      <workItem from="1562765887388" duration="7864000" />
+      <workItem from="1562851851209" duration="5884000" />
+      <workItem from="1563100483937" duration="12790000" />
+      <workItem from="1563208277422" duration="1102000" />
+      <workItem from="1563209815728" duration="60000" />
+      <workItem from="1563210245699" duration="3542000" />
+      <workItem from="1563281558746" duration="35813000" />
+      <workItem from="1563323343143" duration="3000" />
+      <workItem from="1563366512823" duration="32025000" />
+      <workItem from="1563449824967" duration="4429000" />
+      <workItem from="1563479879582" duration="2835000" />
+      <workItem from="1563490148405" duration="3216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="291875000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15884861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32822758" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.24507658" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/HomePgae.html" />
+    <entry file="file://$PROJECT_DIR$/src/Revenda/Retoma.html" />
+    <entry file="file://$PROJECT_DIR$/Revenda/Retoma.html" />
+    <entry file="file://$PROJECT_DIR$/Paginas/lib.js" />
+    <entry file="file://$PROJECT_DIR$/Paginas/estilos.css" />
+    <entry file="file://$PROJECT_DIR$/Paginas/HomePage.html" />
+    <entry file="file://$PROJECT_DIR$/src/Novidades.html" />
+    <entry file="file://$PROJECT_DIR$/.log" />
+    <entry file="file://$PROJECT_DIR$/.script" />
+    <entry file="file://$PROJECT_DIR$/.properties" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f3c12138-a705-425c-9415-80798c1f9217/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/60d19412-7087-4345-b85f-88501c716ddf/console.sql" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dados.json.js" />
+    <entry file="file://$PROJECT_DIR$/dados.xsl" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/dados.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/30af495e-25a1-411c-87c9-0ba7cc804eed/console.sql" />
+    <entry file="file://$PROJECT_DIR$/dados1.json" />
+    <entry file="file://$PROJECT_DIR$/dados.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novidades.html" />
+    <entry file="file://$PROJECT_DIR$/dados1" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/dxfvb" />
+    <entry file="file://$PROJECT_DIR$/sdfg.json" />
+    <entry file="file://$PROJECT_DIR$/contents.json" />
+    <entry file="file://$PROJECT_DIR$/teste.html" />
+    <entry file="file://$PROJECT_DIR$/tbRevRet.json" />
+    <entry file="file://$PROJECT_DIR$/ValidRevRet.json" />
+    <entry file="file://$PROJECT_DIR$/JSON/Lojas.json" />
+    <entry file="file://$PROJECT_DIR$/MarcaDropDown.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/Relevancia.json" />
+    <entry file="file://$PROJECT_DIR$/JSON/Vendedor.json" />
+    <entry file="file://$PROJECT_DIR$/inforRevRet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info2RevRet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info3RevRet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomePageCliente.html" />
+    <entry file="file://$PROJECT_DIR$/HomePageAdmin.html" />
+    <entry file="file://$PROJECT_DIR$/EquipaDropDown.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/Equipamentos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="85" column="1" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/HomeScreen_Cliente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6018">
+          <caret line="354" column="60" selection-start-line="354" selection-start-column="60" selection-end-line="354" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevendaRetoma.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="166" column="180" lean-forward="true" selection-start-line="162" selection-start-column="46" selection-end-line="166" selection-end-column="180" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValRevRet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="189" column="30" lean-forward="true" selection-start-line="164" selection-start-column="19" selection-end-line="189" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="331" lean-forward="true" selection-start-line="269" selection-end-line="331" />
+          <folding>
+            <element signature="e#20#58#0" />
+            <element signature="e#70#95#0" />
+            <element signature="e#107#157#0" />
+            <element signature="e#182#256#0" />
+            <element signature="e#396#460#0" />
+            <element signature="e#474#576#0" />
+            <element signature="e#593#637#0" />
+            <element signature="e#651#778#0" />
+            <element signature="e#795#839#0" />
+            <element signature="e#861#882#0" />
+            <element signature="e#894#996#0" />
+            <element signature="e#1021#1094#0" />
+            <element signature="e#1119#1192#0" />
+            <element signature="e#1217#1286#0" />
+            <element signature="e#1311#1383#0" />
+            <element signature="e#2370#2436#0" />
+            <element signature="e#2452#2543#0" />
+            <element signature="e#2551#2623#0" />
+            <element signature="e#2635#2780#0" />
+            <element signature="e#2801#2934#0" />
+            <element signature="e#2948#3080#0" />
+            <element signature="e#3090#3242#0" />
+            <element signature="e#3247#3398#0" />
+            <element signature="e#3406#3472#0" />
+            <element signature="e#3480#3545#0" />
+            <element signature="e#3553#3618#0" />
+            <element signature="e#3626#3691#0" />
+            <element signature="e#3700#3765#0" />
+            <element signature="e#3774#3824#0" />
+            <element signature="e#3837#3910#0" />
+            <element signature="e#3922#3971#0" />
+            <element signature="e#3980#4093#0" />
+            <element signature="e#4102#4215#0" />
+            <element signature="e#4224#4338#0" />
+            <element signature="e#4347#4461#0" />
+            <element signature="e#4472#4623#0" />
+            <element signature="e#4682#4704#0" />
+            <element signature="e#4876#4907#0" />
+            <element signature="e#4940#4969#0" />
+            <element signature="e#4977#5009#0" />
+            <element signature="e#5035#5064#0" />
+            <element signature="e#5088#5203#0" />
+            <element signature="e#5226#5419#0" />
+            <element signature="e#5438#5498#0" />
+            <element signature="e#5523#5581#0" />
+            <element signature="e#5603#5796#0" />
+            <element signature="e#5819#6012#0" />
+            <element signature="e#6030#6115#0" />
+            <element signature="e#6141#6227#0" />
+            <element signature="e#6247#6306#0" />
+            <element signature="e#6331#6364#0" />
+            <element signature="e#6392#6585#0" />
+            <element signature="e#6614#6729#0" />
+            <element signature="e#6751#6814#0" />
+            <element signature="e#6836#6925#0" />
+            <element signature="e#6951#7072#0" />
+            <element signature="e#7130#7427#0" />
+            <element signature="e#7452#7541#0" />
+            <element signature="e#7565#7599#0" />
+            <element signature="e#7632#7790#0" />
+            <element signature="e#7817#8001#0" />
+            <element signature="e#8023#8205#0" />
+            <element signature="e#8223#8405#0" />
+            <element signature="e#8427#8662#0" />
+            <element signature="e#8684#8892#0" />
+            <element signature="e#8913#9047#0" />
+            <element signature="e#9068#9202#0" />
+            <element signature="e#9223#9356#0" />
+            <element signature="e#9377#9511#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="571" lean-forward="true" selection-start-line="571" selection-end-line="571" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#loadmenu#0" />
+            <element signature="n#!!block;n#LoginRegisto#0" />
+            <element signature="n#!!block;n#loadAutenticate#0" />
+            <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#validateData#0" />
+            <element signature="n#!!block;n#loadmenuCliente#0" />
+            <element signature="n#!!block;n#loadmenuAdmin#0" />
+            <element signature="n#!!block;n#loadfooter#0" />
+            <element signature="n#style#0;n#i#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#4;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#loadProdutos#0" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#loadEquip#0" />
+            <element signature="n#!!block;n#loadMarca#0" />
+            <element signature="n#!!block;n#loadInfo#0" />
+            <element signature="n#!!block;n#loadInfo2#0" />
+            <element signature="n#!!block;n#loadInfo3#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

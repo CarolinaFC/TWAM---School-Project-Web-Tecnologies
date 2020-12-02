@@ -1,0 +1,11 @@
+[
+  {
+    "id" :"1",
+    "Nome" :"Estado do Equipamento:",
+    "condicao" : "1-Mau Estado  2-Estado Mediano  3-Bom Estado (* Campo Obrigatório)",
+    "linha_a" : "(a) Estado do display/ecrã",
+    "linha_b" : "(b) Estado exterior do equipamento",
+    "linha_c" : "(c) Estado da bateria",
+    "linha_d" : "(d) Estado da rede e de Wi-fi"
+  }
+]

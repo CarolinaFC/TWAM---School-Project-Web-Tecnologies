@@ -1,0 +1,38 @@
+[
+  {
+    "id" :"1",
+    "Mar" :"Marca"
+  },
+  {
+    "id" :"2",
+    "Mar" :"Apple"
+  },
+  {
+    "id" :"3",
+    "Mar" :"SamSung"
+  },
+  {
+    "id" :"4",
+    "Mar" :"Wiko"
+  },
+  {
+    "id" :"5",
+    "Mar" :"Toshiba"
+  },
+  {
+    "id" :"6",
+    "Mar" :"Asus"
+  },
+  {
+    "id" :"7",
+    "Mar" :"Acer"
+  },
+  {
+    "id" :"8",
+    "Mar" :"HP"
+  },
+  {
+  "id" :"9",
+  "Mar" :"MacBook"
+  }
+]

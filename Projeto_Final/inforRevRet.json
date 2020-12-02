@@ -1,0 +1,9 @@
+[
+  {
+    "id" :"1",
+    "Nome" :"Equipamento",
+    "Mar" : "1. Marca",
+    "Mod" : "2. Modelo",
+    "SistOp" : "3. Sistema Operativo"
+  }
+]
